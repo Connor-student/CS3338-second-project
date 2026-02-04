@@ -1,0 +1,56 @@
+commit 92c5210c482be1c90fd6cf44f3b0c74e86e42a18
+Merge: 439a566 3563bc7
+Author: Connor-student <cmoy3@calstatela.edu>
+Date:   Tue Feb 3 16:38:36 2026 -0800
+
+    Resolved the merge conflict in the index file
+
+commit 3563bc73e4882b879948c507bfd41c037a5a5447
+Author: Connor-student <cmoy3@calstatela.edu>
+Date:   Tue Feb 3 16:33:31 2026 -0800
+
+    Added my favorite movie to the index
+
+commit 439a566196de1bca56422bf9d90c26b0e72322a4
+Author: Connor-student <cmoy3@calstatela.edu>
+Date:   Tue Feb 3 16:30:08 2026 -0800
+
+    Added my favorite food in the index
+
+commit 435c59018a5b56d381ed74f8f91c0e164defcb7e
+Merge: 28278c2 5f2f8ab
+Author: Connor-student <cmoy3@calstatela.edu>
+Date:   Tue Feb 3 16:19:58 2026 -0800
+
+    Merge branch 'main' of https://github.com/Connor-student/CS3338-second-project
+    
+    Added README
+
+commit 28278c2ad46023d12097bc0526fc3ca2baf2c2e8
+Author: Connor-student <cmoy3@calstatela.edu>
+Date:   Tue Feb 3 16:18:04 2026 -0800
+
+    Added a README
+
+commit 5f2f8ab73bd0308a83088b5fb9d1721a2db8334a
+Merge: 1d2bfc0 0bcd89f
+Author: Connor-student <cmoy3@calstatela.edu>
+Date:   Tue Feb 3 16:08:54 2026 -0800
+
+    Merge pull request #1 from Connor-student/info-fill
+    
+    merging branch info-fill with main
+
+commit 0bcd89f94ea71affa2ce41979acf0612af424d0c
+Author: Connor-student <cmoy3@calstatela.edu>
+Date:   Tue Feb 3 16:01:52 2026 -0800
+
+    index.html
+    
+    Filled out the missing portions on the index file.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
